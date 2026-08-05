@@ -6,8 +6,6 @@
 
 I turn raw SaaS data into decisions leadership can act on - CAC, LTV, cohort retention, payback, and expansion models that hold up under scrutiny.
 
-🎯 Currently looking for: **Financial/Revenue/AP/AR Analyst / FP&A / Controller roles**
-
 ## 🔧 What I work with
 
 `Excel / Financial Modeling` · `SQL` · `SaaS Metrics (CAC, LTV, NRR, Magic Number)` · `Cohort Analysis` · `JavaScript`
