@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Oleksandra 👋
 
-<!--
-**alessandra09/alessandra09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Financial Analyst | SaaS Unit Economics & Financial Modeling | SQL**
 
-Here are some ideas to get you started:
+I turn raw SaaS data into decisions leadership can act on — CAC, LTV, cohort retention, payback, and expansion models that hold up under scrutiny.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Currently looking for: **Financial Analyst / FP&A roles**, open to opportunities in **Bavaria, Germany**
+📍 Based in Ukraine
+
+## 🔧 What I work with
+
+`Excel / Financial Modeling` · `SQL` · `SaaS Metrics (CAC, LTV, NRR, Magic Number)` · `Cohort Analysis` · `JavaScript`
+
+## 📌 Featured projects
+
+- **[Unit Economics Blueprint](https://github.com/alessandra09/unit-economics-blueprint)** — interactive B2B SaaS unit economics calculator covering CAC, LTV, payback, Magic Number, NRR, and a 24-month cohort break-even projection. Built with vanilla HTML/CSS/JS, no dependencies.
+- **[Datadog SaaS Expansion Model](https://github.com/alessandra09/datadog-saas-expansion-model)** — SaaS expansion scenario model built on Datadog's real FY2025 financials, combining SQL and financial modeling.
+
+## 📫 Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/oleksandra-hordieieva-41b143210/)
