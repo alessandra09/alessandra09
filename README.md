@@ -4,8 +4,7 @@
 
 I turn raw SaaS data into decisions leadership can act on - CAC, LTV, cohort retention, payback, and expansion models that hold up under scrutiny.
 
-🎯 Currently looking for: **Financial Analyst / FP&A roles**, open to opportunities in **Bavaria, Germany**
-📍 Based in Ukraine
+🎯 Currently looking for: **Financial Analyst / FP&A roles**
 
 ## 🔧 What I work with
 
