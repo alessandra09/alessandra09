@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=C8F135&center=true&vCenter=true&width=500&lines=Financial+Analyst;SaaS+Unit+Economics;SQL+%2B+Financial+Modeling)
-
 # Hi, I'm Oleksandra 👋
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Financial+Analyst;SaaS+Unit+Economics;SQL+%2B+Financial+Modeling)
 
 **Financial Analyst | SaaS Unit Economics & Financial Modeling | SQL**
 
