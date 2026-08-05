@@ -10,7 +10,7 @@ I turn raw SaaS data into decisions leadership can act on - CAC, LTV, cohort ret
 
 ## 🔧 What I work with
 
-`Excel / Financial Modeling` · `SQL` · `SaaS Metrics (CAC, LTV, NRR, Magic Number)` · `Cohort Analysis` · `JavaScript`
+`Excel / Financial Analysis & Modeling` · `SQL` · `SaaS Metrics (CAC, LTV, NRR, Magic Number)` · `Cohort Analysis` · `Reconciliation`
 
 ## 📌 Featured projects
 
